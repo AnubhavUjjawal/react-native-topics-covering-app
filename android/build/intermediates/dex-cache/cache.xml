@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_2a752b7f001742f59e31268c171c260790fe731a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_583e09962357b05774e2353d1bbf121c1fe82b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_6796c3bd158f418b9e23badf131bad5a94f2f949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b11b64da3a69537ad697d726a9ae0bb560681970.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_c20f312aeee54060ba1193e6915eb2392d33dead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_fa6f67f8a7271cb9736a3a1558dc888409005733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_bce7449e367ee9fc86845e198b7189a0714f7a36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_46676bca9162d499c81bdae007c2eeb53c748710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_d3d8c9045ff7fad50eb853e7f73caa3bfe57542b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_9cb61436fb92c103ef54cc68713b6526b2160abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d2185b6032a3ebd61dd7cd69a99bb57c2b66d849.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_3d13e39f13e1113853d199db1dcd52b1af537e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5d940626322ede9d2bbaaeaa0160c1e6479508cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_dd5ca20c990116f563c7973138ce0f3399ef8216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_3649a86bed474b7dc1a246c3158ad6d74ad1cfdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_aa83c439d88b3a37db7a39617cb6898906fa1b18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c4bdd369b77b62dcf5e3aae215606893b0b658a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_42fea41298fecfef5a2ef7afe02511bb59955d09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_2fa935b6999bf2a111d26030965fb77a8d8326dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_f98c488250ac262d18b012c9f4243055ea153fe6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/shiva2701/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_20a25d1a1052fb18d3f4005ee54254461679d2a1.jar" />
+    </item>
+
+</items>

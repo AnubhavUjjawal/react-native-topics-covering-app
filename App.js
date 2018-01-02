@@ -1,10 +1,12 @@
 import React from "react";
 import { View, Text } from "react-native";
-import { createStore } from "redux";
+import { createStore, applyMiddleware } from "redux";
 import { Provider } from "react-redux";
+import ReduxThunk from "redux-thunk";
+import reducers from "./reducers";
 import firebase from "firebase";
 import LoginForm from "./common/loginForm";
-import Expo from "expo";
+import RouterComponent from "./Routes/Routes";
 
 export default class App extends React.Component {
   constructor(props) {
@@ -12,10 +14,6 @@ export default class App extends React.Component {
     this.state = { loading: true };
   }
   async componentWillMount() {
-    await Expo.Font.loadAsync({
-      Roboto: require("native-base/Fonts/Roboto.ttf"),
-      Roboto_medium: require("native-base/Fonts/Roboto_medium.ttf")
-    });
     this.setState({ loading: false });
     const config = {
       apiKey: "AIzaSyBiH0_gNYp6F6Gc75OVhGMQWgD72OyJ2o0",
@@ -28,12 +26,9 @@ export default class App extends React.Component {
     firebase.initializeApp(config);
   }
   render() {
-    if (this.state.loading) {
-      return <Expo.AppLoading />;
-    }
     return (
-      <Provider store={createStore(() => [])}>
-        <LoginForm />
+      <Provider store={createStore(reducers, {}, applyMiddleware(ReduxThunk))}>
+        <RouterComponent />
       </Provider>
     );
   }
