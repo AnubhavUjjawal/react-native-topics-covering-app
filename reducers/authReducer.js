@@ -18,7 +18,12 @@ export default (state = INITIAL, action) => {
     case LOGIN_USER:
       console.log("login_user_success");
       //console.log({ ...state, ...INITIAL, user: action.payload });
-      return { ...state, user: action.payload.user, error: "", loading: false };
+      return {
+        ...INITIAL,
+        user: action.payload.user,
+        error: "",
+        loading: false
+      };
     case LOGIN_START:
       console.log("starting login process", {
         ...state,

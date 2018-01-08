@@ -1,4 +1,4 @@
-#Thu Dec 28 15:51:47 IST 2017
-base.0=/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri Jan 05 03:46:18 IST 2018
+base.0=/home/shiva/Desktop/projects/react-native/manager/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/shiva2701/Desktop/projects/react-native/manager/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/shiva/Desktop/projects/react-native/manager/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -66,6 +66,7 @@ class LoginForm extends Component {
                     label="email"
                     placeholder=" Email"
                     onChangeText={text => this.emailChanged(text)}
+                    value={this.props.email}
                   />
                 </Item>
               </CardItem>
@@ -96,6 +97,10 @@ class LoginForm extends Component {
                     </Button>
                   )}
                 </CardItem>
+                <Text>
+                  {"\n"}
+                  {"\n"}
+                </Text>
               </Body>
             </Form>
           </Card>
